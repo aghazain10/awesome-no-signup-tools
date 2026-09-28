@@ -28,6 +28,9 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
+- [ToolVerse US](https://toolverseus.com/) - Collection of 1000+ free online tools — text, PDF, image, dev, calculators — no sign-up required.
+- [Stock Average Calculator](https://stockavg.com/) - Share cost basis, averaging down, dividend, profit and CAGR calculators, no signup, calculations run client-side in the browser.
+- [Utilia](https://utilia-gratis.adriano-aimar12.workers.dev/) - Spanish collection of free browser tools for calculators, QR codes, text, conversions, images, and classroom tasks; no account required.
 
 ## DevTools
 
@@ -45,11 +48,12 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Coolors](https://coolors.co/) - Color palette generator, no signup required to generate and explore palettes (saving palettes requires an account).
 - [Google Fonts](https://fonts.google.com/) - Browse and download open-source fonts, no signup required.
 - [Unsplash](https://unsplash.com/) - Browse and download free high-resolution stock photos, no signup required.
+- [AI Coloring Page Generator](https://photlin.com/) - Converts a photo into black-and-white line art and exports it as a printable A4 or US Letter page at 300 DPI, with all processing done client-side.
+- [Background Remover](https://tomaserben.com/free-tools/image-background-remover) - Free browser tool to remove image backgrounds with no signup; processing runs locally in the browser.
 
 ## Productivity
 
 - [Pomofocus](https://pomofocus.io/) - Customizable Pomodoro timer with task tracking, no signup required to start a session.
-- [draw.io](https://app.diagrams.net/) - Free diagramming tool for flowcharts and diagrams, no signup, can save files locally with no server storage.
 - [World Time Buddy](https://www.worldtimebuddy.com/) - Time zone converter and meeting planner, no signup required to use (sign-in is optional, only needed to save settings).
 - [Desmos](https://www.desmos.com/scientific) - Free scientific and graphing calculator, no signup required.
 - [MindMup](https://www.mindmup.com/) - Browser-based mind mapping tool, no signup required to create a map.
@@ -57,11 +61,11 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [TryCalculatingNow](https://trycalculatingnow.com/) - GPA, final grade, percentage, and compound-interest calculators with no signup.
 - [Corbelworks](https://corbelworks.pages.dev/tools/) - Free calculators for contractors and small businesses covering break-even billable rate, change-order cost, service-call minimums, late-invoice carrying cost, and bid go/no-go, no signup, runs client-side in the browser.
 - [Naratake Free Business Tools](https://naratake.com/en/tools) - 35 tools for small businesses covering QR codes, printable signs, menus, and pricing calculators, no signup, runs client-side in the browser.
+- [Drag Task](https://drag-task.web.app/demo) - Calendar-shaped to-do list for adding tasks to days and dragging them to reschedule; the no-signup demo stores data only in the open tab.
+- [OutilCalcul](https://outilcalcul.com) - Free instant calculators for everyday needs (salary, dates, geometry, unit conversions, French labor-law calculations), no signup required.
 
 ## Privacy
 
-- [Bitwarden Password Generator](https://bitwarden.com/password-generator/) - Generates strong random passwords and passphrases, no signup, processed client-side in the browser.
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Checks whether an email or password has appeared in a known data breach, no signup required for a lookup.
 - [SSL Server Test](https://www.ssllabs.com/ssltest/) - Deep analysis of a domain's SSL/TLS configuration by Qualys, no signup required.
 - [VirusTotal](https://www.virustotal.com/) - Scans a file or URL against dozens of antivirus engines, no signup required for a basic scan.
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) - Tests how well your browser is protected from tracking and fingerprinting, no signup, a project of the EFF.
@@ -69,7 +73,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Converters
 
-- [Squoosh](https://squoosh.app/) - Image compression and format conversion tool by Google, no signup, runs entirely client-side via WebAssembly.
+- [FileOnTap HEIC to PNG Converter](https://fileontap.com/heic-to-png/) - Converts HEIC images to PNG with no signup or upload; processing runs locally in the browser.
 - [TinyPNG](https://tinypng.com/) - Compresses PNG, JPEG, and WebP images, no signup required (free tier: up to 20 images per batch, 5MB each).
 - [CloudConvert](https://cloudconvert.com/) - Converts between 200+ document, image, audio, video, and archive formats, no signup required (free tier: 25 conversion minutes per day).
 - [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
@@ -78,7 +82,6 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 
 ## Text & Writing
 
-- [Hemingway Editor](https://hemingwayapp.com/) - Highlights hard-to-read sentences and suggests simpler alternatives, no signup, the web editor runs client-side.
 - [LanguageTool](https://languagetool.org/) - Grammar, spelling, and style checker supporting 30+ languages, no signup required for the free version.
 - [DeepL Translate](https://www.deepl.com/translator) - Machine translation across 30+ languages, no signup required for the web translator.
 - [Google Translate](https://translate.google.com/) - Machine translation across 100+ languages, no signup required.
