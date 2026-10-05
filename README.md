@@ -28,6 +28,8 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
 - [FreeToolHub](https://freetoolhub.org/) - Collection of 190+ free calculators and file utilities covering tax, finance, PDF and image work, no signup, runs client-side in the browser.
 - [BuildEstimate](https://buildestimate.xyz/) - Construction material calculators (concrete, brick, paint, tile, gravel) with bag counts and waste allowance in metric and imperial, no signup, calculations run client-side.
+- [uTubeThumbnailDownloader](https://utubethumbnaildownloader.netlify.app) - Downloads any YouTube video thumbnail in HD, SD and every size, no signup, runs entirely client-side in the browser.
+
 
 ## DevTools
 
