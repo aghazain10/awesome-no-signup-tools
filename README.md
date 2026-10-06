@@ -75,6 +75,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [PDF24 Tools](https://tools.pdf24.org/en/) - Merges, splits, compresses, and converts PDFs, no signup required (files are processed on PDF24's servers and deleted shortly after).
 - [TryQuickImg](https://tryquickimg.com/) - HEIC to JPG, compress to a KB target, resize, crop, and QR tools with no signup; image processing runs client-side in the browser.
 - [AVIF to JPG Converter](https://nutilz.com/avif-to-jpg) - Converts AVIF images to JPG in bulk with a quality slider, background fill for transparency, and Retina scaling, no signup, runs entirely client-side in the browser.
+- [CrunchyPic](https://crunchypic.com/) - Free online image tools (compress to exact KB size, convert, resize) that run fully in the browser. No signup, images never leave your device.
 
 ## Text & Writing
 
