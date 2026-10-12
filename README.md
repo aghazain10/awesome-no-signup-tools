@@ -38,6 +38,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Can I Use](https://caniuse.com/) - Browser support tables for HTML5, CSS3, and other web technologies, no signup required.
 - [TryDevSnip](https://trydevsnip.com/) - JSON formatter, cron helper, timestamps, JWT, and hash tools that run in the browser with no signup; processing stays client-side.
 
+- [17NAS IPv6 Test](https://17nas.com/ipv6-test.php) - Free IPv6 connection test; check IPv4/IPv6 addresses, latency, ISP info and dual-stack status in real time, no signup, runs in the browser.
 ## Design
 
 - [Photopea](https://www.photopea.com/) - Photoshop-like image editor that opens PSD, XD, and Sketch files directly in the browser, no signup, files processed client-side.
