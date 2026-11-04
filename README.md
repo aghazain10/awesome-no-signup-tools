@@ -23,8 +23,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 - [TinyURL](https://tinyurl.com/) - Shortens a long URL into a short link, no signup required for a single link.
 - [Speedtest by Ookla](https://www.speedtest.net/) - Tests internet connection speed (download, upload, ping), no signup required.
-- [goQR.me](https://goqr.me/) - Generates QR codes in PNG, EPS, and SVG, no signup required.
-  
+- [goQR.me](https://goqr.me/) - Generates QR codes in PNG, EPS, and SVG, no signup required.  
 - [RANDOM.ORG](https://www.random.org/) - True random number, sequence, and password generator, no signup required for the free tools.
 - [Redirect Map Checker](https://zequnweb.com/tools/redirect-map-checker/) - Free redirect map validator for a pasted old-to-new plan (up to 2,000 rows), flagging loops, chains and conflicts, for pre-launch checking only. It does not fetch URLs or confirm 301/308 status.
 - [Audio Cutter Online](https://audiocutter.online/) - Cuts, trims, joins, and fades audio files and exports MP3, WAV, FLAC, OGG, M4A, and AIFF, no signup, runs entirely client-side in the browser.
